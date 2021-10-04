@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="delete_account">Delete account</string>
+</resources>
